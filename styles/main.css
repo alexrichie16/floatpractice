@@ -9,7 +9,10 @@ header{
     font-size: 200%;
 }
 h1{
-    color: linear-gradient(90deg, purple, turquoise, #FF5C5C);
+    font-size: 72px;
+    background: -webkit-linear-gradient(90deg, purple, turquoise, #FF5C5C);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 div {
     clear: both;
