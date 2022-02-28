@@ -37,11 +37,10 @@ img{
 footer{
     clear: both;
     color: white;
-    background-color: turquoise;
+    background-color: linear-gradient(90deg, purple, turquoise, hotpink);;
     width: 60%;
     margin: 10px auto;
     padding: 10px;
-    box-shadow: linear-gradient(90deg, purple, green, hotpink);
 }
 
 footer p {
