@@ -4,10 +4,10 @@ html{
 body{
     margin: 0 auto;
 }
-OrangeCat{
+.OrangeCat{
     width: 100%;
 }
-OrangeCat img{
+.OrangeCat img{
     max-width: 30%;
     width: 30%;
     height: auto;
