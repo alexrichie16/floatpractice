@@ -6,7 +6,6 @@ body{
     max-width: 1000px;
     border: 10px inset beige;
     background-color: brown;
-    padding: 10px;
 }
 header{
     text-align: center;
@@ -25,7 +24,7 @@ img{
     max-width: 400px;
     width: 100%;
     height: 12%
-    margin: 5px;
+    padding: 10px;
 }
 .OrangeCat img{
     float: left;
