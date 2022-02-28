@@ -34,7 +34,9 @@ img{
 .OreoCat img{
     float: right;
 }
+footer{
+    bottom: 0;
+}
 footer p{
     text-align: center;
-    bottom: 0;
 }
