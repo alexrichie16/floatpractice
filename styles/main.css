@@ -4,12 +4,12 @@ html{
 body{
     margin: 0 auto;
     max-width: 1000px;
-    border: 10px inset white;
+    border: 10px inset light gray;
 }
 header{
     text-align: center;
     font-size: 200%;
-    border: 10px outset black;
+    border: 10px outset turquoise;
 }
 h1{
     font-size: 72px;
