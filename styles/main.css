@@ -6,9 +6,9 @@ body{
 }
 div {
   max-width: 20%;
-  height: auto;
+  max-height: 20%;
 }
-.OrangeCat .img{
+.OrangeCat img{
     max-width: 30%;
     width: 30%;
     height: auto;
