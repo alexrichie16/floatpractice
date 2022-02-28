@@ -35,12 +35,11 @@ img{
     float: right;
 }
 footer{
-    margin: 10px;
     clear: both;
     color: white;
     backrgound-color: purple;
     width: 60%;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 
 footer p {
