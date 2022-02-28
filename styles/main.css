@@ -6,6 +6,7 @@ body{
     max-width: 1000px;
     border: 10px inset beige;
     background-color: brown;
+    padding: 10px;
 }
 header{
     text-align: center;
