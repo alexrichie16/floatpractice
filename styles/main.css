@@ -9,12 +9,11 @@ header{
 }
 div {
   max-width: 100%;
-  max-height: 16.5%;
+  max-height: auto;
 }
-.OrangeCat img{
-    max-width: 30%;
+img{
     width: 30%;
-    height: auto;
+    height: 16.5%;
 }
 footer p{
     text-align: center;
