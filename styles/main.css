@@ -6,7 +6,7 @@ body{
     margin: 0 auto;
 }
 .OrangeCat img{
-    max-width: 300px;
+    width: 300px;
 }
 footer p{
     text-align: center;
