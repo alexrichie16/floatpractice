@@ -35,12 +35,9 @@ img{
     float: right;
 }
 footer{
-    clear: both;
     color: white;
-    padding: 5px 0;
 }
 
 footer p {
     text-align: center;
-    font-size: 80%;
 }
