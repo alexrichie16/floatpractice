@@ -4,8 +4,9 @@ html{
 body{
     margin: 0 auto;
 }
-.OrangeCat{
-    width: 100%;
+div {
+  max-width: 20%;
+  height: auto;
 }
 .OrangeCat .img{
     max-width: 30%;
