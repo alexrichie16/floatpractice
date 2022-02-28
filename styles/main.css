@@ -15,7 +15,7 @@ img{
     width: 30%;
     height: 16.5%;
 }
-OrangeCat img{
+.OrangeCat img{
     float: right;
 }
 footer p{
