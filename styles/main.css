@@ -38,7 +38,7 @@ footer{
     clear: both;
     color: white;
     background-image: linear-gradient(90deg, purple, turquoise, #FF5C5C);
-    box-shadow: 10px orange, yellow;
+    box-shadow: 10px orange yellow;
     width: 60%;
     margin: 10px auto;
     padding: 10px;
