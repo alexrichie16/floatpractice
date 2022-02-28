@@ -2,7 +2,7 @@ html{
     background-color: teal;
 }
 body{
-
+    margin: 0 auto;
 }
 OrangeCat img{
     max-width: 30%;
