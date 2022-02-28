@@ -39,6 +39,7 @@ img{
 }
 .SiameseCat img{
     float: right;
+    padding: 10px;
 }
 .SphynxCat img{
     float: left;
