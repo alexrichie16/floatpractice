@@ -37,4 +37,6 @@ img{
 footer p{
     position: fixed;
     text-align: center;
+    width: 100%;
+    bottom: 0;
 }
