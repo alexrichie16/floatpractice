@@ -5,7 +5,7 @@ body{
     max-width: 1000px;
     margin: 0 auto;
 }
-.OrangeCat img{
+OrangeCat img{
     width: 300px;
 }
 footer p{
