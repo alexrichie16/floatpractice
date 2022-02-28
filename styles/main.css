@@ -35,7 +35,5 @@ img{
     float: right;
 }
 footer p{
-    position: fixed;
     text-align: center;
-    width: 100%;
 }
