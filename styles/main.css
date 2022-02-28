@@ -4,7 +4,7 @@ html{
 body{
     margin: 0 auto;
     max-width: 1000px;
-    border: 10px white;
+    border: 10px outset white;
 }
 header{
     text-align: center;
