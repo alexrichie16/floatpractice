@@ -16,6 +16,21 @@ img{
     height: 16.5%;
 }
 .OrangeCat img{
+    float: left;
+}
+.RussianBlue img{
+    float: right;
+}
+.ColorPoint img{
+    float: left;
+}
+.SiameseCat img{
+    float: right;
+}
+.SphynxCat img{
+    float: left;
+}
+.OreoCat img{
     float: right;
 }
 footer p{
