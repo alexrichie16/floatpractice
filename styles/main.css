@@ -2,11 +2,11 @@ html{
     background-color: teal;
 }
 body{
-    max-width: 30%;
-    height: auto;
+
 }
 OrangeCat img{
-    width: 300px;
+    max-width: 30%;
+    height: auto;
 }
 footer p{
     text-align: center;
