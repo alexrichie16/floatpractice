@@ -2,8 +2,8 @@ html{
     background-color: teal;
 }
 body{
-    max-width: 1000px;
-    margin: 0 auto;
+    max-width: 30%;
+    height: auto;
 }
 OrangeCat img{
     width: 300px;
