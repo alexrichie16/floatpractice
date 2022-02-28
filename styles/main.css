@@ -9,10 +9,10 @@ body{
 header{
     text-align: center;
     font-size: 200%;
+    border: 10px black;
 }
 h1{
     font-size: 72px;
-    border: 10px black;
 }
 div {
     clear: both;
