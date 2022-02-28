@@ -41,7 +41,7 @@ footer{
     width: 60%;
     margin: 10px auto;
     padding: 10px;
-    border: 10px solid black;
+    box-shadow: linear-gradient(90deg, purple, green, hotpink);
 }
 
 footer p {
