@@ -10,6 +10,7 @@ header{
 div {
   max-width: 100%;
   height: 16.5%;
+  clear: both;
 }
 img{
     width: 30%;
