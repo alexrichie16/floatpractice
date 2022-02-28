@@ -8,6 +8,9 @@ header{
     text-align: center;
     font-size: 200%;
 }
+h1{
+    color: linear-gradient(90deg, purple, turquoise, #FF5C5C);
+}
 div {
     clear: both;
 }
