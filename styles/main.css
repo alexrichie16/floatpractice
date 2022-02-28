@@ -15,6 +15,9 @@ img{
     width: 30%;
     height: 16.5%;
 }
+.OrangeCat img{
+    float:right;
+}
 footer p{
     text-align: center;
 }
